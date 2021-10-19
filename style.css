@@ -1,0 +1,36 @@
+
+     h1{
+         color: purple;
+     }
+    
+     /**{
+     border: solid;    
+     }
+     */
+     .header{
+         background-color: silver;
+         display: flex;
+         justify-content: space-between;
+     }
+     .menu{
+         background-color: skyblue;
+         display: flex;
+         justify-content: center;
+
+     }
+     .grid{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;  
+     }
+     .footer{
+        background-color: blue;
+        display: flex;
+        justify-content:flex-end; 
+     }
+
+     h2,p{
+        color:steelblue;
+        text-align: center;
+    }
+       
